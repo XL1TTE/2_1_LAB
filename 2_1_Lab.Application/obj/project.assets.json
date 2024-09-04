@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "2_1_Lab.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/2_1_Lab.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/2_1_Lab.Domain.dll": {}
+        }
+      },
+      "2_1_Lab.Infrastracture/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "2_1_Lab.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/2_1_Lab.Infrastracture.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/2_1_Lab.Infrastracture.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2_1_Lab.Domain/1.0.0": {
+      "type": "project",
+      "path": "../2_1_Lab.Domain/2_1_Lab.Domain.csproj",
+      "msbuildProject": "../2_1_Lab.Domain/2_1_Lab.Domain.csproj"
+    },
+    "2_1_Lab.Infrastracture/1.0.0": {
+      "type": "project",
+      "path": "../2_1_Lab.Infrastracture/2_1_Lab.Infrastracture.csproj",
+      "msbuildProject": "../2_1_Lab.Infrastracture/2_1_Lab.Infrastracture.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "2_1_Lab.Domain >= 1.0.0",
+      "2_1_Lab.Infrastracture >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\zzzxl\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Application\\2_1_Lab.Application.csproj",
+      "projectName": "2_1_Lab.Application",
+      "projectPath": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Application\\2_1_Lab.Application.csproj",
+      "packagesPath": "C:\\Users\\zzzxl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\zzzxl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Domain\\2_1_Lab.Domain.csproj": {
+              "projectPath": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Domain\\2_1_Lab.Domain.csproj"
+            },
+            "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Infrastracture\\2_1_Lab.Infrastracture.csproj": {
+              "projectPath": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Infrastracture\\2_1_Lab.Infrastracture.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

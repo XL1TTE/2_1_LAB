@@ -1,0 +1,15 @@
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\bin\Debug\net8.0\2_1_Lab.Infrastracture.deps.json
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\bin\Debug\net8.0\2_1_Lab.Infrastracture.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\bin\Debug\net8.0\2_1_Lab.Infrastracture.pdb
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\bin\Debug\net8.0\2_1_Lab.Domain.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\bin\Debug\net8.0\2_1_Lab.Domain.pdb
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\obj\Debug\net8.0\2_1_Lab.Infrastracture.csproj.AssemblyReference.cache
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\obj\Debug\net8.0\2_1_Lab.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\obj\Debug\net8.0\2_1_Lab.Infrastracture.AssemblyInfoInputs.cache
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\obj\Debug\net8.0\2_1_Lab.Infrastracture.AssemblyInfo.cs
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\obj\Debug\net8.0\2_1_Lab.Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\obj\Debug\net8.0\2_1_Lab..BF19AB57.Up2Date
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\obj\Debug\net8.0\2_1_Lab.Infrastracture.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\obj\Debug\net8.0\refint\2_1_Lab.Infrastracture.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\obj\Debug\net8.0\2_1_Lab.Infrastracture.pdb
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Infrastracture\obj\Debug\net8.0\ref\2_1_Lab.Infrastracture.dll

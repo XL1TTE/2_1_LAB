@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2_1_Lab.Infrastracture/1.0.0": {
+        "dependencies": {
+          "2_1_Lab.Domain": "1.0.0"
+        },
+        "runtime": {
+          "2_1_Lab.Infrastracture.dll": {}
+        }
+      },
+      "2_1_Lab.Domain/1.0.0": {
+        "runtime": {
+          "2_1_Lab.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2_1_Lab.Infrastracture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "2_1_Lab.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

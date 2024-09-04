@@ -1,0 +1,17 @@
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\bin\Debug\net8.0\2_1_Lab.Application.deps.json
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\bin\Debug\net8.0\2_1_Lab.Application.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\bin\Debug\net8.0\2_1_Lab.Application.pdb
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\bin\Debug\net8.0\2_1_Lab.Domain.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\bin\Debug\net8.0\2_1_Lab.Infrastracture.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\bin\Debug\net8.0\2_1_Lab.Domain.pdb
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\bin\Debug\net8.0\2_1_Lab.Infrastracture.pdb
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\2_1_Lab.Application.csproj.AssemblyReference.cache
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\2_1_Lab.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\2_1_Lab.Application.AssemblyInfoInputs.cache
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\2_1_Lab.Application.AssemblyInfo.cs
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\2_1_Lab.Application.csproj.CoreCompileInputs.cache
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\2_1_Lab..29FEC15E.Up2Date
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\2_1_Lab.Application.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\refint\2_1_Lab.Application.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\2_1_Lab.Application.pdb
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\ref\2_1_Lab.Application.dll

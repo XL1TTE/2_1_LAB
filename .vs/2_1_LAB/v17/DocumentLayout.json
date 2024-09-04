@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\viewmodels\\studentgraphicsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\viewmodels\\studentgraphicsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\views\\studentsgraphicsdataview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\views\\studentsgraphicsdataview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\views\\studentsgraphicsdataview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\views\\studentsgraphicsdataview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E654D667-1E54-4236-9EF2-2C6E6A249A17}|2_1_Lab.Infrastracture\\2_1_Lab.Infrastracture.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.infrastracture\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E654D667-1E54-4236-9EF2-2C6E6A249A17}|2_1_Lab.Infrastracture\\2_1_Lab.Infrastracture.csproj|solutionrelative:2_1_lab.infrastracture\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\views\\studenttableview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\views\\studenttableview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\viewmodels\\studenttableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\viewmodels\\studenttableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\views\\studenttableview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\views\\studenttableview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zzzxl\\.nuget\\packages\\livecharts\\0.9.7\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\records\\studentcridentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\records\\studentcridentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\customcontrols\\textboxwithtip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\customcontrols\\textboxwithtip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\2_1_lab.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\2_1_lab.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562A4892-B9D3-483E-B2B8-7DFD0AA8D7BF}|2_1_Lab.Application\\2_1_Lab.Application.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.application\\studentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562A4892-B9D3-483E-B2B8-7DFD0AA8D7BF}|2_1_Lab.Application\\2_1_Lab.Application.csproj|solutionrelative:2_1_lab.application\\studentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336D49AF-6830-4353-9CD3-146C63BC9E06}|2_1_Lab.Domain\\2_1_Lab.Domain.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336D49AF-6830-4353-9CD3-146C63BC9E06}|2_1_Lab.Domain\\2_1_Lab.Domain.csproj|solutionrelative:2_1_lab.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336D49AF-6830-4353-9CD3-146C63BC9E06}|2_1_Lab.Domain\\2_1_Lab.Domain.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.domain\\istores\\istudentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336D49AF-6830-4353-9CD3-146C63BC9E06}|2_1_Lab.Domain\\2_1_Lab.Domain.csproj|solutionrelative:2_1_lab.domain\\istores\\istudentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336D49AF-6830-4353-9CD3-146C63BC9E06}|2_1_Lab.Domain\\2_1_Lab.Domain.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.domain\\irepositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336D49AF-6830-4353-9CD3-146C63BC9E06}|2_1_Lab.Domain\\2_1_Lab.Domain.csproj|solutionrelative:2_1_lab.domain\\irepositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|c:\\users\\zzzxl\\source\\repos\\2_1_lab\\2_1_lab.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34F49DD-CAE8-4298-9302-A6E130E9F234}|2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj|solutionrelative:2_1_lab.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentGraphicsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\ViewModels\\StudentGraphicsViewModel.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\ViewModels\\StudentGraphicsViewModel.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\ViewModels\\StudentGraphicsViewModel.cs",
+              "RelativeToolTip": "2_1_Lab.Wpf\\ViewModels\\StudentGraphicsViewModel.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAIA2wEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:00:04.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsGraphicsDataView.xaml",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Views\\StudentsGraphicsDataView.xaml",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\Views\\StudentsGraphicsDataView.xaml",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Views\\StudentsGraphicsDataView.xaml",
+              "RelativeToolTip": "2_1_Lab.Wpf\\Views\\StudentsGraphicsDataView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T05:50:50.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentTableViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\ViewModels\\StudentTableViewModel.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\ViewModels\\StudentTableViewModel.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\ViewModels\\StudentTableViewModel.cs",
+              "RelativeToolTip": "2_1_Lab.Wpf\\ViewModels\\StudentTableViewModel.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwE4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:49:54.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentTableView.xaml",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Views\\StudentTableView.xaml",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\Views\\StudentTableView.xaml",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Views\\StudentTableView.xaml",
+              "RelativeToolTip": "2_1_Lab.Wpf\\Views\\StudentTableView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T05:52:38.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsGraphicsDataView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Views\\StudentsGraphicsDataView.xaml.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\Views\\StudentsGraphicsDataView.xaml.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Views\\StudentsGraphicsDataView.xaml.cs",
+              "RelativeToolTip": "2_1_Lab.Wpf\\Views\\StudentsGraphicsDataView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:59:42.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Infrastracture\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Infrastracture\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Infrastracture\\StudentRepository.cs",
+              "RelativeToolTip": "2_1_Lab.Infrastracture\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:20:01.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\App.xaml.cs",
+              "RelativeToolTip": "2_1_Lab.Wpf\\App.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwCAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:27:11.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\App.xaml",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\App.xaml",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\App.xaml",
+              "RelativeToolTip": "2_1_Lab.Wpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-03T16:41:07.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentTableView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Views\\StudentTableView.xaml.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\Views\\StudentTableView.xaml.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Views\\StudentTableView.xaml.cs",
+              "RelativeToolTip": "2_1_Lab.Wpf\\Views\\StudentTableView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:59:43.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\.nuget\\packages\\livecharts\\0.9.7\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\livecharts\\0.9.7\\readme.txt",
+              "ToolTip": "C:\\Users\\zzzxl\\.nuget\\packages\\livecharts\\0.9.7\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\livecharts\\0.9.7\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-04T05:52:36.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentCridentials.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Records\\StudentCridentials.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\Records\\StudentCridentials.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Records\\StudentCridentials.cs",
+              "RelativeToolTip": "2_1_Lab.Wpf\\Records\\StudentCridentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:30:23.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TextBoxWithTip.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\CustomControls\\TextBoxWithTip.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\CustomControls\\TextBoxWithTip.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\CustomControls\\TextBoxWithTip.cs",
+              "RelativeToolTip": "2_1_Lab.Wpf\\CustomControls\\TextBoxWithTip.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAEBVwDIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:03:26.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Themes\\Generic.xaml",
+              "RelativeToolTip": "2_1_Lab.Wpf\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T04:53:36.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "2_1_Lab.Wpf.csproj",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj",
+              "RelativeToolTip": "2_1_Lab.Wpf\\2_1_Lab.Wpf.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T05:04:22.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\NLog.config",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\NLog.config",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\NLog.config",
+              "RelativeToolTip": "2_1_Lab.Wpf\\NLog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-04T04:26:29.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentStore.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Application\\StudentStore.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Application\\StudentStore.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Application\\StudentStore.cs",
+              "RelativeToolTip": "2_1_Lab.Application\\StudentStore.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAewBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:40:30.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Core\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\Core\\ObservableObject.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\Core\\ObservableObject.cs",
+              "RelativeToolTip": "2_1_Lab.Wpf\\Core\\ObservableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:56:16.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IStudentStore.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Domain\\IStores\\IStudentStore.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Domain\\IStores\\IStudentStore.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Domain\\IStores\\IStudentStore.cs",
+              "RelativeToolTip": "2_1_Lab.Domain\\IStores\\IStudentStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:42:07.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Domain\\Student.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Domain\\Student.cs",
+              "RelativeToolTip": "2_1_Lab.Domain\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:42:11.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Domain\\IRepositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Domain\\IRepositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Domain\\IRepositories\\IStudentRepository.cs",
+              "RelativeToolTip": "2_1_Lab.Domain\\IRepositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:43:55.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "2_1_Lab.Wpf\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:49:58.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\MainWindow.xaml",
+              "RelativeToolTip": "2_1_Lab.Wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-03T16:51:43.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "2_1_Lab.Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_Lab.Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "2_1_Lab.Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:49:53.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

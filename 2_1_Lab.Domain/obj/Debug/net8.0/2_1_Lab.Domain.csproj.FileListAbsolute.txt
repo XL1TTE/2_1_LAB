@@ -1,0 +1,11 @@
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Domain\bin\Debug\net8.0\2_1_Lab.Domain.deps.json
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Domain\bin\Debug\net8.0\2_1_Lab.Domain.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Domain\bin\Debug\net8.0\2_1_Lab.Domain.pdb
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Domain\obj\Debug\net8.0\2_1_Lab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Domain\obj\Debug\net8.0\2_1_Lab.Domain.AssemblyInfoInputs.cache
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Domain\obj\Debug\net8.0\2_1_Lab.Domain.AssemblyInfo.cs
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Domain\obj\Debug\net8.0\2_1_Lab.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Domain\obj\Debug\net8.0\2_1_Lab.Domain.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Domain\obj\Debug\net8.0\refint\2_1_Lab.Domain.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Domain\obj\Debug\net8.0\2_1_Lab.Domain.pdb
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Domain\obj\Debug\net8.0\ref\2_1_Lab.Domain.dll

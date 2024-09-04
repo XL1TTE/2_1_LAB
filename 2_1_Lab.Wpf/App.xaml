@@ -1,0 +1,30 @@
+﻿<Application x:Class="_2_1_Lab.Wpf.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vms="clr-namespace:_2_1_Lab.Wpf.ViewModels"
+             xmlns:vs="clr-namespace:_2_1_Lab.Wpf.Views"
+             xmlns:local="clr-namespace:_2_1_Lab.Wpf">
+    <Application.Resources>
+
+        <ResourceDictionary>
+            <DataTemplate DataType="{x:Type vms:MainWindowViewModel}">
+                <local:MainWindow/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vms:StudentTableViewModel}">
+                <vs:StudentTableView />
+            </DataTemplate>
+            
+            <DataTemplate DataType="{x:Type vms:StudentGraphicsViewModel}">
+                <vs:StudentsGraphicsDataView />
+            </DataTemplate>
+            
+            
+            
+            <ResourceDictionary.MergedDictionaries>
+                
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+        
+    </Application.Resources>
+</Application>
