@@ -15,3 +15,4 @@ C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\2_1_Lab
 C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\refint\2_1_Lab.Application.dll
 C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\2_1_Lab.Application.pdb
 C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\ref\2_1_Lab.Application.dll
+C:\Users\zzzxl\source\repos\2_1_LAB\2_1_Lab.Application\obj\Debug\net8.0\2_1_Lab.Application.sourcelink.json

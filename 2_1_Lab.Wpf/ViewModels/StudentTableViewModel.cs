@@ -1,16 +1,10 @@
-﻿using _2_1_Lab.Application;
-using _2_1_Lab.Domain;
+﻿using _2_1_Lab.Domain;
 using _2_1_Lab.Domain.IStores;
 using _2_1_Lab.Wpf.Core;
 using _2_1_Lab.Wpf.Records;
 using _2_1_Lab.Wpf.Services;
-using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Annotations;
+
 
 namespace _2_1_Lab.Wpf.ViewModels
 {

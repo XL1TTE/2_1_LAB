@@ -12,7 +12,6 @@ namespace _2_1_Lab.Application
     public class StudentStore : IStudentStore
 
     {
-
         public StudentStore(IStudentRepository studentRepository)
         {
             this.studentRepository = studentRepository;

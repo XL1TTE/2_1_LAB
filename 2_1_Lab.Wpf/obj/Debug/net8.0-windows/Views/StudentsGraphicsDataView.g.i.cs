@@ -62,7 +62,7 @@ namespace _2_1_Lab.Wpf.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/2_1_Lab.Wpf;component/views/studentsgraphicsdataview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/2_1_Lab.Wpf;V1.0.0.0;component/views/studentsgraphicsdataview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\StudentsGraphicsDataView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -55,7 +55,7 @@ namespace _2_1_Lab.Wpf {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/2_1_Lab.Wpf;component/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/2_1_Lab.Wpf;V1.0.0.0;component/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
