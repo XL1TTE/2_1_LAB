@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_1_Lab.Application", "2_1_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_1_Lab.Infrastracture", "2_1_Lab.Infrastracture\2_1_Lab.Infrastracture.csproj", "{E654D667-1E54-4236-9EF2-2C6E6A249A17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_1_LAB.ConsoleClient", "2_1_LAB.ConsoleClient\2_1_LAB.ConsoleClient.csproj", "{399AC6E6-AA7F-4560-A7C3-416A8118FD1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_1_LAB.ConsoleClient", "2_1_LAB.ConsoleClient\2_1_LAB.ConsoleClient.csproj", "{399AC6E6-AA7F-4560-A7C3-416A8118FD1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_1_LIB.WinForm", "2_1_LIB.WinForm\2_1_LIB.WinForm.csproj", "{30F7553D-308A-46A3-A948-1F43D7ADD736}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{399AC6E6-AA7F-4560-A7C3-416A8118FD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{399AC6E6-AA7F-4560-A7C3-416A8118FD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{399AC6E6-AA7F-4560-A7C3-416A8118FD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F7553D-308A-46A3-A948-1F43D7ADD736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F7553D-308A-46A3-A948-1F43D7ADD736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F7553D-308A-46A3-A948-1F43D7ADD736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F7553D-308A-46A3-A948-1F43D7ADD736}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

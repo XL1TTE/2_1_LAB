@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCZ7P1aDeLo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zzzxl\\source\\repos\\2_1_LAB\\2_1_LIB.WinForm\\2_1_LIB.WinForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zzzxl\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\zzzxl\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
